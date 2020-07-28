@@ -30,13 +30,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![TipCalculator](https://user-images.githubusercontent.com/39353286/88620507-360ba680-d06c-11ea-9859-e95b3b42dc7a.gif)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- Reading and writing from binding variables then conducting calculations from strings to doubles. 
 
 ## License
 
